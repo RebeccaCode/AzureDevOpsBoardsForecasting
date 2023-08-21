@@ -1,0 +1,17 @@
+BoardsApiWrapper:
+  LoginEmail:
+  LoginPAT:
+  AzureService: 'dev.azure.com'
+  APIVersion: 7.0
+  Organization:
+  Project:
+  APIDateFormatString: '%Y-%m-%dT%H:%M:%SZ'
+  APIMaxWorkItemBatchSize: 200
+
+CustomWorkItemsProcessor:
+  DefaultEffort:
+    Epic: 500
+    Feature: 100
+    Product Backlog Item: 24
+    Bug: 16
+    Task: 8
