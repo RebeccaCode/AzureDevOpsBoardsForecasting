@@ -4,7 +4,7 @@ import yaml
 
 class CustomWorkItemsProcessor():
     def __init__(self):
-        with open('./config.yaml', 'r') as f:
+        with open('config.yaml', 'r') as f:
             self.config = yaml.safe_load(f)
 
         self.default_effort_task = self.config.get('CustomWorkItemsProcessor').get('DefaultEffort').get(

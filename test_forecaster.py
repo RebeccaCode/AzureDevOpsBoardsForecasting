@@ -1,24 +1,21 @@
 import yaml
 
-from constants import *
-import logging
 import custom_logger
 from unittest import TestCase, main
-from forecastExcel import ForecastExcel
+from forecaster import Forecaster
 from customWorkItemProcessor import CustomWorkItemsProcessor
 from boardsApiWrapper import BoardsApiWrapper
-from datetime import datetime, timedelta
 
 
-class TestForecastExcel(TestCase):
+class TestForecaster(TestCase):
     def setUp(self):
-        with open('./config.yaml', 'r') as f:
+        with open('config.yaml', 'r') as f:
             self.config = yaml.safe_load(f)
 
         self.project = self.config.get('BoardsApiWrapper').get('Project')
 
         self.logger = custom_logger.get_logger(__name__)
-        self.fe = ForecastExcel()
+        self.fe = Forecaster()
         self.cwip = CustomWorkItemsProcessor()
         self.baw = BoardsApiWrapper()
 
@@ -33,7 +30,8 @@ class TestForecastExcel(TestCase):
     def test_create_forecast_as_excel(self):
         self.logger.debug('start')
 
-        self.fe.create_forecast_as_excel(self.test_workitems, self.test_iterations)
+        output_path = 'logs/test.xlsx'
+        self.fe.create_forecast_as_excel(self.test_workitems, self.test_iterations, output_path)
 
         self.logger.debug('end')
 

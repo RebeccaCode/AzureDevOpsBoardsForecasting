@@ -1,0 +1,343 @@
+Testing Scrum Features:
+  Iterations:
+    - PythonCustom.CalculatedCapacity: 121.0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/2e597e2c-e986-4449-847a-91488048d0fa/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%201
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/2e597e2c-e986-4449-847a-91488048d0fa
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/2e597e2c-e986-4449-847a-91488048d0fa/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/2e597e2c-e986-4449-847a-91488048d0fa/workitems
+      attributes:
+        finishDate: '2023-08-11T00:00:00Z'
+        startDate: '2023-07-31T00:00:00Z'
+        timeFrame: past
+      finishDate: 2023-08-11
+      id: 2e597e2c-e986-4449-847a-91488048d0fa
+      name: Sprint 1
+      path: Testing Scrum Features\Sprint 1
+      startDate: 2023-07-31
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/2e597e2c-e986-4449-847a-91488048d0fa
+    - PythonCustom.CalculatedCapacity: 280.0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/29d68b16-2694-45b8-b738-c940ba7815b7/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%202
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/29d68b16-2694-45b8-b738-c940ba7815b7
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/29d68b16-2694-45b8-b738-c940ba7815b7/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/29d68b16-2694-45b8-b738-c940ba7815b7/workitems
+      attributes:
+        finishDate: '2023-08-25T00:00:00Z'
+        startDate: '2023-08-14T00:00:00Z'
+        timeFrame: current
+      finishDate: 2023-08-25
+      id: 29d68b16-2694-45b8-b738-c940ba7815b7
+      name: Sprint 2
+      path: Testing Scrum Features\Sprint 2
+      startDate: 2023-08-14
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/29d68b16-2694-45b8-b738-c940ba7815b7
+    - PythonCustom.CalculatedCapacity: 280.0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/c9d1ae88-7416-46f1-a86e-1092e14de2b2/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%203
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/c9d1ae88-7416-46f1-a86e-1092e14de2b2
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/c9d1ae88-7416-46f1-a86e-1092e14de2b2/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/c9d1ae88-7416-46f1-a86e-1092e14de2b2/workitems
+      attributes:
+        finishDate: '2023-09-08T00:00:00Z'
+        startDate: '2023-08-28T00:00:00Z'
+        timeFrame: future
+      finishDate: 2023-09-08
+      id: c9d1ae88-7416-46f1-a86e-1092e14de2b2
+      name: Sprint 3
+      path: Testing Scrum Features\Sprint 3
+      startDate: 2023-08-28
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/c9d1ae88-7416-46f1-a86e-1092e14de2b2
+    - PythonCustom.CalculatedCapacity: 0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/5f36680c-f0a0-4763-a657-5d5c2780c233/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%204
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/5f36680c-f0a0-4763-a657-5d5c2780c233
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/5f36680c-f0a0-4763-a657-5d5c2780c233/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/5f36680c-f0a0-4763-a657-5d5c2780c233/workitems
+      attributes:
+        finishDate: '2023-09-22T00:00:00Z'
+        startDate: '2023-09-11T00:00:00Z'
+        timeFrame: future
+      finishDate: 2023-09-22
+      id: 5f36680c-f0a0-4763-a657-5d5c2780c233
+      name: Sprint 4
+      path: Testing Scrum Features\Sprint 4
+      startDate: 2023-09-11
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/5f36680c-f0a0-4763-a657-5d5c2780c233
+    - PythonCustom.CalculatedCapacity: 0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/adc670d8-3017-4312-92db-50a3e9c7c808/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%205
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/adc670d8-3017-4312-92db-50a3e9c7c808
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/adc670d8-3017-4312-92db-50a3e9c7c808/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/adc670d8-3017-4312-92db-50a3e9c7c808/workitems
+      attributes:
+        finishDate: '2023-10-06T00:00:00Z'
+        startDate: '2023-09-25T00:00:00Z'
+        timeFrame: future
+      finishDate: 2023-10-06
+      id: adc670d8-3017-4312-92db-50a3e9c7c808
+      name: Sprint 5
+      path: Testing Scrum Features\Sprint 5
+      startDate: 2023-09-25
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/adc670d8-3017-4312-92db-50a3e9c7c808
+    - PythonCustom.CalculatedCapacity: 0
+      _links:
+        capacity:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/167c98e7-a1bb-47ed-b90a-273d36a5f66b/capacities
+        classificationNode:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/_apis/wit/classificationNodes/Iterations/Sprint%206
+        project:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b
+        self:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/167c98e7-a1bb-47ed-b90a-273d36a5f66b
+        team:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/_apis/projects/746893aa-d57f-4c4d-b687-5cabc6a73e0b/teams/b436229f-09df-4bbd-b37c-e1d203031e11
+        teamDaysOff:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/167c98e7-a1bb-47ed-b90a-273d36a5f66b/teamdaysoff
+        teamIterations:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations
+        teamSettings:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings
+        workitems:
+          href: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/167c98e7-a1bb-47ed-b90a-273d36a5f66b/workitems
+      attributes:
+        finishDate: '2023-10-20T00:00:00Z'
+        startDate: '2023-10-09T00:00:00Z'
+        timeFrame: future
+      finishDate: 2023-10-20
+      id: 167c98e7-a1bb-47ed-b90a-273d36a5f66b
+      name: Sprint 6
+      path: Testing Scrum Features\Sprint 6
+      startDate: 2023-10-09
+      url: https://dev.azure.com/DEG-Flowshare-PRD/746893aa-d57f-4c4d-b687-5cabc6a73e0b/b436229f-09df-4bbd-b37c-e1d203031e11/_apis/work/teamsettings/iterations/167c98e7-a1bb-47ed-b90a-273d36a5f66b
+  WorkItems:
+    - Microsoft.VSTS.Common.BacklogPriority: 1000000000.0
+      PythonCustom.RemainingWork: 57.0
+      System.Id: 578
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Epic A
+      System.WorkItemType: Epic
+    - PythonCustom.RemainingWork: 13.0
+      System.Id: 579
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 578
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Feature A-1
+      System.WorkItemType: Feature
+    - PythonCustom.RemainingWork: 28.0
+      System.Id: 580
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 578
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Feature A-2
+      System.WorkItemType: Feature
+    - Microsoft.VSTS.Common.BacklogPriority: 1999955279.0
+      PythonCustom.RemainingWork: 16
+      System.Id: 581
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 578
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Feature A-3
+      System.WorkItemType: Feature
+    - Microsoft.VSTS.Common.BacklogPriority: 800000000.0
+      Microsoft.VSTS.Scheduling.RemainingWork: 5.0
+      PythonCustom.RemainingWork: 3.0
+      System.Id: 582
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 579
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-1-a
+      System.WorkItemType: Product Backlog Item
+    - Microsoft.VSTS.Common.BacklogPriority: 1600000000.0
+      PythonCustom.RemainingWork: 4.0
+      System.Id: 583
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 579
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-1-b
+      System.WorkItemType: Product Backlog Item
+    - PythonCustom.RemainingWork: 6.0
+      System.Id: 584
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 579
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-1-c
+      System.WorkItemType: Product Backlog Item
+    - Microsoft.VSTS.Scheduling.RemainingWork: 1.0
+      PythonCustom.RemainingWork: 1.0
+      System.Id: 585
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 582
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task PBI A-1-a-i
+      System.WorkItemType: Task
+    - Microsoft.VSTS.Scheduling.RemainingWork: 2.0
+      PythonCustom.RemainingWork: 2.0
+      System.Id: 586
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 582
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task PBI A-1-a-ii
+      System.WorkItemType: Task
+    - Microsoft.VSTS.Scheduling.RemainingWork: 4.0
+      PythonCustom.RemainingWork: 4.0
+      System.Id: 587
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 583
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task PBI A-1-b-i
+      System.WorkItemType: Task
+    - Microsoft.VSTS.Scheduling.RemainingWork: 6.0
+      PythonCustom.RemainingWork: 6.0
+      System.Id: 588
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 584
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task PBI A-1-c-i
+      System.WorkItemType: Task
+    - Microsoft.VSTS.Common.BacklogPriority: 1200000000.0
+      PythonCustom.RemainingWork: 12.0
+      System.Id: 589
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 580
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-2-a
+      System.WorkItemType: Product Backlog Item
+    - Microsoft.VSTS.Scheduling.RemainingWork: 3.0
+      PythonCustom.RemainingWork: 3.0
+      System.Id: 590
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 589
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task A-2-a-i
+      System.WorkItemType: Task
+    - Microsoft.VSTS.Scheduling.RemainingWork: 9.0
+      PythonCustom.RemainingWork: 9.0
+      System.Id: 591
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 589
+      System.State: To Do
+      System.TeamProject: Testing Scrum Features
+      System.Title: Task A-2-a-ii
+      System.WorkItemType: Task
+    - PythonCustom.RemainingWork: 16
+      System.Id: 592
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 580
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-2-b
+      System.WorkItemType: Product Backlog Item
+    - Microsoft.VSTS.Common.BacklogPriority: 400000000.0
+      Microsoft.VSTS.Scheduling.Effort: 50.0
+      PythonCustom.RemainingWork: 16
+      System.Id: 593
+      System.IterationPath: Testing Scrum Features
+      System.Parent: 581
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: PBI A-3-a
+      System.WorkItemType: Product Backlog Item
+    - Microsoft.VSTS.Common.BacklogPriority: 999968378.0
+      Microsoft.VSTS.Scheduling.Effort: 150.0
+      PythonCustom.RemainingWork: 48
+      System.Id: 594
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Epic B
+      System.WorkItemType: Epic
+    - Microsoft.VSTS.Common.BacklogPriority: 1999910559.0
+      Microsoft.VSTS.Scheduling.Effort: 120.0
+      PythonCustom.RemainingWork: 48
+      System.Id: 595
+      System.IterationPath: Testing Scrum Features\Sprint 1
+      System.Parent: 594
+      System.State: New
+      System.TeamProject: Testing Scrum Features
+      System.Title: Feature B-1
+      System.WorkItemType: Feature

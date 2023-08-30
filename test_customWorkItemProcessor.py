@@ -3,7 +3,7 @@ import custom_logger
 from boardsApiWrapper import BoardsApiWrapper
 from customWorkItemProcessor import CustomWorkItemsProcessor
 from unittest import TestCase, main
-import yaml
+
 
 class TestCustomWorkItemsProcessor(TestCase):
     def setUp(self):

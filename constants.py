@@ -12,6 +12,18 @@ class WorkItemTypes:
     Bug = 'Bug'
     Task = 'Task'
 
+    All_Types = [Epic, Feature, PBI, Bug, Task]
+
+
+class WorkItemStates:
+    New = 'New'
+    InProgress = 'In Progress'
+    ToDo = 'To Do'
+    Done = 'Done'
+    Committed = 'Committed'
+
+    All_States = [New, InProgress, ToDo, Done, Committed]
+
 
 class WorkItemFields:
     BacklogPriority = 'Microsoft.VSTS.Common.BacklogPriority'

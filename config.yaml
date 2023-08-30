@@ -15,3 +15,46 @@ CustomWorkItemsProcessor:
     Product Backlog Item: 24
     Bug: 16
     Task: 8
+
+Forecaster:
+  Iterations:
+    Feature:
+      DefaultDesiredCapacity:
+        0.25
+  VisualFormats:
+    Epic:
+      Title:
+        Font:
+          bold: true
+        PatternFill:
+          fill_type: solid
+          start_color: EEC95C
+          end_color: EEC95C
+      DoingWorkInIteration:
+        PatternFill:
+          fill_type: solid
+          start_color: 80C4B7
+          end_color: 80C4B7
+    Feature:
+      Title:
+        Font:
+          bold: true
+        PatternFill:
+          fill_type: solid
+          start_color: EECCD3
+          end_color: EECCD3
+      DoingWorkInIteration:
+        PatternFill:
+          fill_type: solid
+          start_color: E3856B
+          end_color: E3856B
+    Overall:
+      CellWidth: 15
+    Iteration:
+      Title:
+        Font:
+          bold: true
+        PatternFill:
+          fill_type: solid
+          start_color: FBFCF8
+          end_color: FBFCF8
